@@ -1,0 +1,2 @@
+# Gierka
+Repo dla gierki 
